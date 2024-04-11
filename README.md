@@ -1,5 +1,4 @@
-<img align="center" alt="welcome" src="https://steamuserimages-a.akamaihd.net/ugc/863989733918677813/4FB27DE025C123ACF90706D096FAD126F703B34C/? imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false">
-<!-- ![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/863989733918677813/4FB27DE025C123ACF90706D096FAD126F703B34C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false) -->
+ ![MasterHead](https://steamuserimages-a.akamaihd.net/ugc/863989733918677813/4FB27DE025C123ACF90706D096FAD126F703B34C/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false) 
 <h1 align="center">Hi 👋, I'm Eldesouky Reda</h1>
 <h3 align="center">A passionate embedded system from Egypt .</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.videoplasty.com/animation/chill-coding-programming-lo-fi-animation-stock-animation-21874-1280x720.jpg?1607096344">
